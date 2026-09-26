@@ -1,5 +1,5 @@
 # ESCOLA POLITÉCNICA PUCRS 
-# SEGURANÇA DE SISTEMAS 
+SEGURANÇA DE SISTEMAS 
 
 ## Trabalho 1 
 ### A Colisão do Flame: como uma falha do MD5 permitiu forjar a assinatura digital da Microsoft 
